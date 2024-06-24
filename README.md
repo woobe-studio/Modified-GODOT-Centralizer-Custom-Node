@@ -28,6 +28,6 @@ Following these steps will seamlessly integrate the Centralizer node into your G
 
 That's it! You're now ready to utilize the Centralizer node within your Godot projects. Happy coding! 🚀
 
-![ScreenShot](centralizer_ss.png)
+![ScreenShot](git_needed/centralizer_ss.png)
 
 This new node is an implementation of similar available node that does not inherit from control.h, in other words size of this node is 80% less in memory usage than normal one. And it has similar features as its original node with a new icon look.
