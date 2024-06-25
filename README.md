@@ -4,10 +4,10 @@ To seamlessly integrate the new Centralizer node into your Godot editor, simply 
 
 ### 1. Icon Placement
 - Locate the icon file for the Centralizer node in your project directory.
-- Move the `.png` icon to the designated directory: `\editor\icons`.
+- Move the `.png` icon from the `src` folder to the designated directory: `\editor\icons`.
 
 ### 2. Add Source Files
-- Copy the `.cpp` and `.h` files of the Centralizer node to the `\scene\2d` directory within your project.
+- Copy the `.cpp` and `.h` files of the Centralizer node from the `src` folder to the `\scene\2d` directory within your project.
 
 ### 3. Update `registry_scene_types.cpp`
 - Navigate to the `registry_scene_types.cpp` file located in the `\scene` directory of your project.
